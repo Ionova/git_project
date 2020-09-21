@@ -1,1 +1,1 @@
-print 3 end
+print 1(5) end
